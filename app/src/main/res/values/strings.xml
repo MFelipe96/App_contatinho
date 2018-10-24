@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppContatinhos</string>
+    <string name="salvar">salvar</string>
+    <string name="title_activity_cadastro_">Cadastro_Activity</string>
+    <string name="title_activity_teste">TESTE</string>
+    <string name="ic_phone">telefone</string>
+    <string name="ic_email">e-mail</string>
+    <string name="ic_map">mapa</string>
+    <string name="ic_person">pessoa</string>
+    <string name="enviar_mensagem">Enviar mensagem</string>
+    <string name="telefonar">Telefonar</string>
+
+</resources>

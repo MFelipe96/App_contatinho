@@ -11,7 +11,7 @@
         android:id="@+id/rvContatinhos"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        />
+        tools:listitem="@layout/contatinho_item_lista"/>
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/btnaddContatinhos"

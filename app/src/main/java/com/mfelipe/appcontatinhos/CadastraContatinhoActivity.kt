@@ -205,9 +205,6 @@ class CadastraContatinhoActivity : AppCompatActivity() {
                     .placeholder(R.drawable.ic_person)
                     .centerCrop()
                     .into(image_person)
-
-            //val bitmap = data?.extras?.get("data") as Bitmap
-            //image_person.setImageBitmap(bitmap)
         }
     }
 

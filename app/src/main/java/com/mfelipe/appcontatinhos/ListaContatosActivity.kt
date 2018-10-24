@@ -63,11 +63,9 @@ class ListaContatosActivity : AppCompatActivity() {
         //ReciclyView
         val adapter = ContatinhoAdapter(listaContatinhos)
         val layoutManager = LinearLayoutManager(this)
-        val dividerItemDecoration = DividerItemDecoration(this, layoutManager.orientation)
 
         rvContatinhos.adapter = adapter
         rvContatinhos.layoutManager = layoutManager
-        rvContatinhos.addItemDecoration(dividerItemDecoration)
     }
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
